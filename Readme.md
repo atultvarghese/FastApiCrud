@@ -1,0 +1,1 @@
+Fast API based application for simple crud in mongodb
